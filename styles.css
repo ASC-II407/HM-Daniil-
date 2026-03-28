@@ -1,0 +1,32 @@
+/* Базовые селекторы */
+
+p {
+    color: blue;
+}
+
+.bold-item {
+    font-weight: bold;
+}
+
+#main-title {
+    color: rgb(255, 0, 0);
+}
+
+
+
+h2 {
+    color: green;
+}
+
+.priority {
+    color: orange;
+}
+
+#priority-id {
+    color: purple;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
