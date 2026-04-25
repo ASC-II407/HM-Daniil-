@@ -1,0 +1,45 @@
+.block {
+  background-color: aqua;
+  margin: 5px 0;
+  padding: 10px;
+}
+
+.inline {
+     background-color: lightgreen;
+     margin: 0 5px;
+     padding: 5px;
+}
+
+
+.blocktoinline {
+     display: inline-block;
+     background-color: lightcoral;
+     margin: 5px 0;
+     padding: 10px;
+}
+
+.inlinetoblock {
+     display: block;
+     background-color: lightblue;
+     margin: 5px 0;
+     padding: 10px;
+}
+
+.ggg {display: block;
+   
+  margin: 5px 0;
+  padding: 10px;
+}  
+img {
+  display: block;
+  background-color: rgb(218, 210, 107);
+  
+}
+a {
+  display:block;
+ background-color: rgb(218, 210, 107);
+}
+p {
+  
+  background-color: rgb(218, 210, 107);
+}
