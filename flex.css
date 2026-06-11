@@ -1,0 +1,121 @@
+.container {
+  display: flex;
+ justify-content: center;
+align-items: center;
+  flex-wrap: wrap;                                                                                                                                                                           
+
+align-content: space-around;
+
+}
+
+.item {
+  background-color: #b12424;
+
+}
+.flex-container {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.container5 {
+    display: flex;
+    border: 2px solid black;
+}
+
+.grow {
+    background: rgb(255, 92, 63);
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 150px;
+}
+
+.grow2 {
+    background: rgb(4, 108, 199);
+    flex-grow: 2;
+    flex-shrink: 1;
+    flex-basis: 200px;
+}
+
+.grow3 {
+    background: rgb(35, 252, 129);
+
+ 
+    flex: 1 2 100px;
+}
+
+.container5 div {
+    color: white;
+    
+}
+
+.container6 {
+    display: flex;
+   
+}
+
+.item0{
+
+
+    flex: 0 0 50%;
+    background: rgb(255, 92, 63);
+    color: white;
+}
+.item2 {
+    flex: 1 0 auto;
+    background: rgb(4, 108, 199);
+    color: white;
+}
+.item5 {
+    flex: 0 0 100px;
+    background: rgb(35, 252, 129);
+    color: white;
+}
+
+.container7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.item7 {
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 92, 63);
+    justify-content: space-around;
+
+}
+
+
+
+img {
+  display: block;
+  background-color: rgb(218, 210, 107);
+  
+}
+img1 {
+  display: block;
+  background-color: rgb(218, 210, 107);
+  
+}
+img2 {
+  display: block;
+  background-color: rgb(218, 210, 107);
+  
+}
+.container8 {
+    display: flex;
+      justify-content: space-around;
+   flex-direction: column;
+   flex-wrap: wrap;
+    
+    align-items: center;
+    height: 250px;
+}
+.img {
+   
+    margin: 10px;
+  
+  
+   
+}
