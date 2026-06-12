@@ -72,4 +72,6 @@ header {
 }
 .search input:focus{
     background-color: transparent;
+    outline: none;
+   
 }
