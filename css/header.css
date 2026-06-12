@@ -21,6 +21,7 @@ header {
     justify-content: center;
     align-items: center;
     box-shadow: 0 8px 6px -6px black;
+    
 }
 
 .Active3 {
@@ -68,4 +69,7 @@ header {
 .active:hover{
     color: #006E2F;
     
+}
+.search input:focus{
+    background-color: transparent;
 }
